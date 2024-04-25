@@ -4,3 +4,9 @@
 
 I'm a 20 year-old Computer Engineer based in Tampa, and I am passionate about software and computers. 
 
+## 📦 Toolbox
+
+### Frontend Development
+- **Languages**: JavaScript, HTML, CSS
+- **Technologies**: Bootstrap
+- **Tools**: Visual Studio Code
