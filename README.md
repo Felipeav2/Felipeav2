@@ -10,3 +10,9 @@ I'm a 20 year-old Computer Engineer based in Tampa, and I am passionate about so
 - **Languages**: JavaScript, HTML, CSS
 - **Technologies**: Bootstrap
 - **Tools**: Visual Studio Code
+
+### Backend Development
+- **Languages**: Python, Java, C++
+- **Frameworks**: Flask
+- **Databases & ORM**: SQL, SQLAlchemy
+- **Testing & Quality Tools**: CTest (for C++ development), Flask-WTF (for secure form handling in Flask)
