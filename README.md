@@ -21,3 +21,11 @@ I'm a 20 year-old Computer Engineer based in Tampa, and I am passionate about so
 - **Languages and Tools**:
   - Python, C++: CTest
   - Python: Flask-WTF
+
+### Other Skills
+- **Version Control**: Git, GitHub
+- **Operating Systems**: Linux/Unix
+- **Data Analysis & Machine Learning**:
+  - **Data Analysis**: Pandas, NumPy
+  - **Machine Learning**: Scikit-learn
+- **Hardware Engineering**: Arduino (C++, Arduino IDE, Tinker CAD)
